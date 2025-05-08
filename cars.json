@@ -1,0 +1,1698 @@
+[
+  {
+    "id": "001",
+    "avsid": "001",
+    "registration": "12-12-2017",
+    "car_overview": {
+      "brand": "Mercedes-Benz",
+      "model": "A-Klasse",
+      "body": "Hatchback",
+      "price": 30656,
+      "pictures": "./images/autos/001/",
+      "description": "Quia quaerat nobis neque tenetur a vero quasi doloremque enim dolorem molestiae dolore voluptas sit tempora nulla voluptas magnam.",
+      "condition": "Occasion",
+      "stock_number": "MER001",
+      "vin_number": "77EB3F81-F65E-496",
+      "year": 2015,
+      "mileage": 46219,
+      "transmission": "Automaat",
+      "engine_size": "3.1L",
+      "driver_type": "Achterwielaandrijving",
+      "cylinders": 3,
+      "fuel": "Diesel",
+      "doors": 5,
+      "color": "Zilver",
+      "seats": 4,
+      "pk": 259,
+      "variant": "MERVAR7",
+      "carrosserie": "hatchback"
+    },
+    "safety_features": [
+      "Botswaarschuwing",
+      "Lane Assist",
+      "Airbags",
+      "ABS"
+    ],
+    "exterior_features": [
+      "Elektrische spiegels",
+      "Lichtmetalen velgen",
+      "LED-koplampen",
+      "Panoramadak"
+    ],
+    "interior_features": [
+      "Navigatiesysteem",
+      "Stoelverwarming",
+      "Climate control",
+      "Lederen bekleding"
+    ],
+    "convenience_features": [
+      "Sleutelvrije toegang",
+      "Apple CarPlay",
+      "Cruise Control",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "002",
+    "avsid": "002",
+    "registration": "30-05-2024",
+    "car_overview": {
+      "brand": "Volvo",
+      "model": "V40",
+      "body": "Stationwagon",
+      "price": 42745,
+      "pictures": "./images/autos/002/",
+      "description": "Fugit aperiam commodi aliquid harum dignissimos fugiat qui iure.",
+      "condition": "Occasion",
+      "stock_number": "VOL002",
+      "vin_number": "B419EE69-CED4-4D5",
+      "year": 2012,
+      "mileage": 129432,
+      "transmission": "Automaat",
+      "engine_size": "3.0L",
+      "driver_type": "Vierwielaandrijving",
+      "cylinders": 3,
+      "fuel": "Diesel",
+      "doors": 4,
+      "color": "Geel",
+      "seats": 7,
+      "pk": 118,
+      "variant": "VOLVAR2",
+      "carrosserie": "stationwagon"
+    },
+    "safety_features": [
+      "Lane Assist",
+      "ABS",
+      "Airbags",
+      "Botswaarschuwing"
+    ],
+    "exterior_features": [
+      "LED-koplampen",
+      "Panoramadak",
+      "Elektrische spiegels",
+      "Mistlampen"
+    ],
+    "interior_features": [
+      "Navigatiesysteem",
+      "Stoelverwarming",
+      "Climate control",
+      "Multifunctioneel stuur"
+    ],
+    "convenience_features": [
+      "Bluetooth",
+      "Apple CarPlay",
+      "Parkeersensoren",
+      "Cruise Control"
+    ]
+  },
+  {
+    "id": "003",
+    "avsid": "003",
+    "registration": "22-11-2017",
+    "car_overview": {
+      "brand": "Opel",
+      "model": "Corsa",
+      "body": "Hatchback",
+      "price": 10491,
+      "pictures": "./images/autos/003/",
+      "description": "Molestias molestiae autem voluptatibus id quis numquam ipsa quae eveniet.",
+      "condition": "Occasion",
+      "stock_number": "OPE003",
+      "vin_number": "42D0E7AD-B3B6-4C8",
+      "year": 2022,
+      "mileage": 170993,
+      "transmission": "Handgeschakeld",
+      "engine_size": "2.2L",
+      "driver_type": "Vierwielaandrijving",
+      "cylinders": 3,
+      "fuel": "Benzine",
+      "doors": 5,
+      "color": "Wit",
+      "seats": 5,
+      "pk": 109,
+      "variant": "OPEVAR5",
+      "carrosserie": "hatchback"
+    },
+    "safety_features": [
+      "Botswaarschuwing",
+      "Dodehoekdetectie",
+      "Achteruitrijcamera",
+      "ABS"
+    ],
+    "exterior_features": [
+      "Lichtmetalen velgen",
+      "Panoramadak",
+      "LED-koplampen",
+      "Elektrische spiegels"
+    ],
+    "interior_features": [
+      "Lederen bekleding",
+      "Climate control",
+      "Multifunctioneel stuur",
+      "Stoelverwarming"
+    ],
+    "convenience_features": [
+      "Cruise Control",
+      "Bluetooth",
+      "Parkeersensoren",
+      "Sleutelvrije toegang"
+    ]
+  },
+  {
+    "id": "004",
+    "avsid": "004",
+    "registration": "24-09-2017",
+    "car_overview": {
+      "brand": "Nissan",
+      "model": "Qashqai",
+      "body": "Suv",
+      "price": 39021,
+      "pictures": "./images/autos/004/",
+      "description": "Suscipit a unde blanditiis dolores quae doloremque ea totam eligendi consectetur consequuntur quam.",
+      "condition": "Occasion",
+      "stock_number": "NIS004",
+      "vin_number": "18CC1C74-7860-4D8",
+      "year": 2012,
+      "mileage": 150593,
+      "transmission": "Automaat",
+      "engine_size": "1.9L",
+      "driver_type": "Vierwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Benzine",
+      "doors": 3,
+      "color": "Zwart",
+      "seats": 4,
+      "pk": 200,
+      "variant": "NISVAR4",
+      "carrosserie": "SUV"
+    },
+    "safety_features": [
+      "ABS",
+      "Achteruitrijcamera",
+      "Botswaarschuwing",
+      "Lane Assist"
+    ],
+    "exterior_features": [
+      "Mistlampen",
+      "Elektrische spiegels",
+      "Lichtmetalen velgen",
+      "LED-koplampen"
+    ],
+    "interior_features": [
+      "Navigatiesysteem",
+      "Climate control",
+      "Stoelverwarming",
+      "Lederen bekleding"
+    ],
+    "convenience_features": [
+      "Sleutelvrije toegang",
+      "Parkeersensoren",
+      "Bluetooth",
+      "Apple CarPlay"
+    ]
+  },
+  {
+    "id": "005",
+    "avsid": "005",
+    "registration": "14-07-2018",
+    "car_overview": {
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "body": "Hatchback",
+      "price": 20907,
+      "pictures": "./images/autos/005/",
+      "description": "Similique consequuntur dolor architecto esse tempore in tempora sunt iure dolorum sequi minus alias ratione id.",
+      "condition": "Occasion",
+      "stock_number": "VOL005",
+      "vin_number": "CE10CD6E-4DF6-48E",
+      "year": 2020,
+      "mileage": 125064,
+      "transmission": "Handgeschakeld",
+      "engine_size": "3.0L",
+      "driver_type": "Voorwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Hybride",
+      "doors": 4,
+      "color": "Blauw",
+      "seats": 4,
+      "pk": 118,
+      "variant": "VOLVAR2",
+      "carrosserie": "hatchback"
+    },
+    "safety_features": [
+      "ABS",
+      "Botswaarschuwing",
+      "Lane Assist",
+      "Achteruitrijcamera"
+    ],
+    "exterior_features": [
+      "Panoramadak",
+      "Lichtmetalen velgen",
+      "Elektrische spiegels",
+      "Mistlampen"
+    ],
+    "interior_features": [
+      "Climate control",
+      "Multifunctioneel stuur",
+      "Stoelverwarming",
+      "Navigatiesysteem"
+    ],
+    "convenience_features": [
+      "Bluetooth",
+      "Cruise Control",
+      "Parkeersensoren",
+      "Apple CarPlay"
+    ]
+  },
+  {
+    "id": "006",
+    "avsid": "006",
+    "registration": "23-11-2022",
+    "car_overview": {
+      "brand": "Fiat",
+      "model": "500",
+      "body": "Hatchback",
+      "price": 26849,
+      "pictures": "./images/autos/006/",
+      "description": "Ipsa reprehenderit iste impedit veniam cupiditate ducimus labore ratione autem ratione vitae odit libero aperiam nisi.",
+      "condition": "Occasion",
+      "stock_number": "FIA006",
+      "vin_number": "3B4ACC8A-69A0-48F",
+      "year": 2016,
+      "mileage": 66086,
+      "transmission": "Handgeschakeld",
+      "engine_size": "2.5L",
+      "driver_type": "Voorwielaandrijving",
+      "cylinders": 6,
+      "fuel": "Benzine",
+      "doors": 3,
+      "color": "Zwart",
+      "seats": 5,
+      "pk": 188,
+      "variant": "FIAVAR1",
+      "carrosserie": "hatchback"
+    },
+    "safety_features": [
+      "Botswaarschuwing",
+      "Dodehoekdetectie",
+      "Airbags",
+      "ABS"
+    ],
+    "exterior_features": [
+      "Lichtmetalen velgen",
+      "Elektrische spiegels",
+      "Panoramadak",
+      "Mistlampen"
+    ],
+    "interior_features": [
+      "Multifunctioneel stuur",
+      "Navigatiesysteem",
+      "Stoelverwarming",
+      "Climate control"
+    ],
+    "convenience_features": [
+      "Apple CarPlay",
+      "Sleutelvrije toegang",
+      "Parkeersensoren",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "007",
+    "avsid": "007",
+    "registration": "31-07-2019",
+    "car_overview": {
+      "brand": "Kia",
+      "model": "Ceed",
+      "body": "Stationwagon",
+      "price": 25510,
+      "pictures": "./images/autos/007/",
+      "description": "Odio saepe corrupti illum explicabo eum dolorum tempore blanditiis consectetur fuga dolore molestias ex id eveniet.",
+      "condition": "Occasion",
+      "stock_number": "KIA007",
+      "vin_number": "6BC6363B-D222-4DB",
+      "year": 2015,
+      "mileage": 167439,
+      "transmission": "Automaat",
+      "engine_size": "2.0L",
+      "driver_type": "Vierwielaandrijving",
+      "cylinders": 6,
+      "fuel": "Benzine",
+      "doors": 3,
+      "color": "Grijs",
+      "seats": 5,
+      "pk": 133,
+      "variant": "KIAVAR1",
+      "carrosserie": "stationwagon"
+    },
+    "safety_features": [
+      "ABS",
+      "Airbags",
+      "Dodehoekdetectie",
+      "Achteruitrijcamera"
+    ],
+    "exterior_features": [
+      "Lichtmetalen velgen",
+      "LED-koplampen",
+      "Elektrische spiegels",
+      "Mistlampen"
+    ],
+    "interior_features": [
+      "Navigatiesysteem",
+      "Lederen bekleding",
+      "Multifunctioneel stuur",
+      "Climate control"
+    ],
+    "convenience_features": [
+      "Cruise Control",
+      "Bluetooth",
+      "Sleutelvrije toegang",
+      "Apple CarPlay"
+    ]
+  },
+  {
+    "id": "008",
+    "avsid": "008",
+    "registration": "13-04-2019",
+    "car_overview": {
+      "brand": "Skoda",
+      "model": "Octavia",
+      "body": "Sedan",
+      "price": 33940,
+      "pictures": "./images/autos/008/",
+      "description": "Adipisci nihil dolor deserunt nisi libero ea eaque illo.",
+      "condition": "Occasion",
+      "stock_number": "SKO008",
+      "vin_number": "6DDD66C1-3E2A-463",
+      "year": 2012,
+      "mileage": 56609,
+      "transmission": "Handgeschakeld",
+      "engine_size": "2.5L",
+      "driver_type": "Vierwielaandrijving",
+      "cylinders": 6,
+      "fuel": "Benzine",
+      "doors": 4,
+      "color": "Wit",
+      "seats": 5,
+      "pk": 152,
+      "variant": "SKOVAR7",
+      "carrosserie": "sedan"
+    },
+    "safety_features": [
+      "Airbags",
+      "ABS",
+      "Dodehoekdetectie",
+      "Botswaarschuwing"
+    ],
+    "exterior_features": [
+      "Mistlampen",
+      "Elektrische spiegels",
+      "Lichtmetalen velgen",
+      "LED-koplampen"
+    ],
+    "interior_features": [
+      "Lederen bekleding",
+      "Navigatiesysteem",
+      "Multifunctioneel stuur",
+      "Stoelverwarming"
+    ],
+    "convenience_features": [
+      "Parkeersensoren",
+      "Bluetooth",
+      "Cruise Control",
+      "Apple CarPlay"
+    ]
+  },
+  {
+    "id": "009",
+    "avsid": "009",
+    "registration": "25-01-2016",
+    "car_overview": {
+      "brand": "Toyota",
+      "model": "Corolla",
+      "body": "Sedan",
+      "price": 41639,
+      "pictures": "./images/autos/009/",
+      "description": "Ipsam quia minima velit beatae quisquam ipsam quibusdam ratione odit dolores et.",
+      "condition": "Occasion",
+      "stock_number": "TOY009",
+      "vin_number": "CF4B27B5-5818-477",
+      "year": 2013,
+      "mileage": 107139,
+      "transmission": "Automaat",
+      "engine_size": "1.5L",
+      "driver_type": "Vierwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Hybride",
+      "doors": 5,
+      "color": "Grijs",
+      "seats": 5,
+      "pk": 156,
+      "variant": "TOYVAR7",
+      "carrosserie": "sedan"
+    },
+    "safety_features": [
+      "ABS",
+      "Botswaarschuwing",
+      "Airbags",
+      "Lane Assist"
+    ],
+    "exterior_features": [
+      "Lichtmetalen velgen",
+      "LED-koplampen",
+      "Elektrische spiegels",
+      "Panoramadak"
+    ],
+    "interior_features": [
+      "Multifunctioneel stuur",
+      "Navigatiesysteem",
+      "Climate control",
+      "Lederen bekleding"
+    ],
+    "convenience_features": [
+      "Bluetooth",
+      "Cruise Control",
+      "Sleutelvrije toegang",
+      "Apple CarPlay"
+    ]
+  },
+  {
+    "id": "010",
+    "avsid": "010",
+    "registration": "20-12-2023",
+    "car_overview": {
+      "brand": "Audi",
+      "model": "A4",
+      "body": "Sedan",
+      "price": 37120,
+      "pictures": "./images/autos/010/",
+      "description": "Saepe dolore doloribus corporis vitae consequuntur vel in impedit aut.",
+      "condition": "Occasion",
+      "stock_number": "AUD010",
+      "vin_number": "EDD0D046-15B0-460",
+      "year": 2015,
+      "mileage": 152472,
+      "transmission": "Automaat",
+      "engine_size": "2.0L",
+      "driver_type": "Achterwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Elektrisch",
+      "doors": 3,
+      "color": "Blauw",
+      "seats": 5,
+      "pk": 96,
+      "variant": "AUDVAR5",
+      "carrosserie": "sedan"
+    },
+    "safety_features": [
+      "Lane Assist",
+      "Dodehoekdetectie",
+      "Airbags",
+      "Achteruitrijcamera"
+    ],
+    "exterior_features": [
+      "Panoramadak",
+      "LED-koplampen",
+      "Mistlampen",
+      "Lichtmetalen velgen"
+    ],
+    "interior_features": [
+      "Lederen bekleding",
+      "Climate control",
+      "Stoelverwarming",
+      "Navigatiesysteem"
+    ],
+    "convenience_features": [
+      "Sleutelvrije toegang",
+      "Bluetooth",
+      "Parkeersensoren",
+      "Cruise Control"
+    ]
+  },
+  {
+    "id": "011",
+    "avsid": "011",
+    "registration": "25-05-2015",
+    "car_overview": {
+      "brand": "Kia",
+      "model": "Ceed",
+      "body": "Stationwagon",
+      "price": 12872,
+      "pictures": "./images/autos/011/",
+      "description": "Saepe facere maxime laborum explicabo nostrum sapiente minima nemo.",
+      "condition": "Occasion",
+      "stock_number": "KIA011",
+      "vin_number": "ECF4B8E0-2CC3-429",
+      "year": 2023,
+      "mileage": 110308,
+      "transmission": "Handgeschakeld",
+      "engine_size": "2.3L",
+      "driver_type": "Achterwielaandrijving",
+      "cylinders": 3,
+      "fuel": "Hybride",
+      "doors": 3,
+      "color": "Wit",
+      "seats": 5,
+      "pk": 270,
+      "variant": "KIAVAR6",
+      "carrosserie": "stationwagon"
+    },
+    "safety_features": [
+      "Airbags",
+      "Lane Assist",
+      "Botswaarschuwing",
+      "ABS"
+    ],
+    "exterior_features": [
+      "Elektrische spiegels",
+      "Panoramadak",
+      "LED-koplampen",
+      "Lichtmetalen velgen"
+    ],
+    "interior_features": [
+      "Lederen bekleding",
+      "Climate control",
+      "Navigatiesysteem",
+      "Stoelverwarming"
+    ],
+    "convenience_features": [
+      "Apple CarPlay",
+      "Parkeersensoren",
+      "Cruise Control",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "012",
+    "avsid": "012",
+    "registration": "08-02-2017",
+    "car_overview": {
+      "brand": "Hyundai",
+      "model": "i30",
+      "body": "Hatchback",
+      "price": 37512,
+      "pictures": "./images/autos/012/",
+      "description": "Eligendi sapiente tempore non non quaerat sunt non quos fugit.",
+      "condition": "Occasion",
+      "stock_number": "HYU012",
+      "vin_number": "FACC723C-6CF8-49B",
+      "year": 2022,
+      "mileage": 168975,
+      "transmission": "Handgeschakeld",
+      "engine_size": "2.4L",
+      "driver_type": "Voorwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Diesel",
+      "doors": 3,
+      "color": "Zilver",
+      "seats": 4,
+      "pk": 252,
+      "variant": "HYUVAR1",
+      "carrosserie": "hatchback"
+    },
+    "safety_features": [
+      "Dodehoekdetectie",
+      "Achteruitrijcamera",
+      "Lane Assist",
+      "ABS"
+    ],
+    "exterior_features": [
+      "Mistlampen",
+      "Lichtmetalen velgen",
+      "Panoramadak",
+      "LED-koplampen"
+    ],
+    "interior_features": [
+      "Multifunctioneel stuur",
+      "Lederen bekleding",
+      "Stoelverwarming",
+      "Navigatiesysteem"
+    ],
+    "convenience_features": [
+      "Apple CarPlay",
+      "Bluetooth",
+      "Parkeersensoren",
+      "Cruise Control"
+    ]
+  },
+  {
+    "id": "013",
+    "avsid": "013",
+    "registration": "26-12-2023",
+    "car_overview": {
+      "brand": "Opel",
+      "model": "Corsa",
+      "body": "Hatchback",
+      "price": 8772,
+      "pictures": "./images/autos/013/",
+      "description": "Maxime iure ex commodi veritatis eum iure provident sapiente ab cum sed cumque.",
+      "condition": "Occasion",
+      "stock_number": "OPE013",
+      "vin_number": "2BA87FB8-57CF-40E",
+      "year": 2020,
+      "mileage": 150543,
+      "transmission": "Automaat",
+      "engine_size": "1.3L",
+      "driver_type": "Vierwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Hybride",
+      "doors": 3,
+      "color": "Geel",
+      "seats": 5,
+      "pk": 273,
+      "variant": "OPEVAR4",
+      "carrosserie": "hatchback"
+    },
+    "safety_features": [
+      "Achteruitrijcamera",
+      "Lane Assist",
+      "Dodehoekdetectie",
+      "Airbags"
+    ],
+    "exterior_features": [
+      "Panoramadak",
+      "Mistlampen",
+      "LED-koplampen",
+      "Lichtmetalen velgen"
+    ],
+    "interior_features": [
+      "Climate control",
+      "Navigatiesysteem",
+      "Multifunctioneel stuur",
+      "Lederen bekleding"
+    ],
+    "convenience_features": [
+      "Parkeersensoren",
+      "Bluetooth",
+      "Sleutelvrije toegang",
+      "Apple CarPlay"
+    ]
+  },
+  {
+    "id": "014",
+    "avsid": "014",
+    "registration": "27-04-2024",
+    "car_overview": {
+      "brand": "Skoda",
+      "model": "Octavia",
+      "body": "Sedan",
+      "price": 27907,
+      "pictures": "./images/autos/014/",
+      "description": "Incidunt iusto cumque nisi ipsa facilis doloribus error.",
+      "condition": "Occasion",
+      "stock_number": "SKO014",
+      "vin_number": "29482BBB-D420-4AE",
+      "year": 2019,
+      "mileage": 153324,
+      "transmission": "Handgeschakeld",
+      "engine_size": "1.4L",
+      "driver_type": "Voorwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Benzine",
+      "doors": 4,
+      "color": "Wit",
+      "seats": 5,
+      "pk": 235,
+      "variant": "SKOVAR6",
+      "carrosserie": "sedan"
+    },
+    "safety_features": [
+      "ABS",
+      "Achteruitrijcamera",
+      "Botswaarschuwing",
+      "Lane Assist"
+    ],
+    "exterior_features": [
+      "Panoramadak",
+      "Elektrische spiegels",
+      "LED-koplampen",
+      "Mistlampen"
+    ],
+    "interior_features": [
+      "Navigatiesysteem",
+      "Stoelverwarming",
+      "Multifunctioneel stuur",
+      "Lederen bekleding"
+    ],
+    "convenience_features": [
+      "Bluetooth",
+      "Apple CarPlay",
+      "Cruise Control",
+      "Sleutelvrije toegang"
+    ]
+  },
+  {
+    "id": "015",
+    "avsid": "015",
+    "registration": "18-01-2017",
+    "car_overview": {
+      "brand": "Hyundai",
+      "model": "i30",
+      "body": "Hatchback",
+      "price": 10784,
+      "pictures": "./images/autos/015/",
+      "description": "Modi voluptates fugiat reiciendis consequuntur repudiandae quia officia quo aspernatur quam ea aliquid quibusdam rem.",
+      "condition": "Occasion",
+      "stock_number": "HYU015",
+      "vin_number": "11CE6D9B-0BD1-464",
+      "year": 2020,
+      "mileage": 135485,
+      "transmission": "Automaat",
+      "engine_size": "3.4L",
+      "driver_type": "Voorwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Hybride",
+      "doors": 5,
+      "color": "Groen",
+      "seats": 4,
+      "pk": 278,
+      "variant": "HYUVAR9",
+      "carrosserie": "hatchback"
+    },
+    "safety_features": [
+      "Lane Assist",
+      "Dodehoekdetectie",
+      "ABS",
+      "Airbags"
+    ],
+    "exterior_features": [
+      "LED-koplampen",
+      "Panoramadak",
+      "Lichtmetalen velgen",
+      "Mistlampen"
+    ],
+    "interior_features": [
+      "Navigatiesysteem",
+      "Stoelverwarming",
+      "Climate control",
+      "Lederen bekleding"
+    ],
+    "convenience_features": [
+      "Bluetooth",
+      "Sleutelvrije toegang",
+      "Apple CarPlay",
+      "Parkeersensoren"
+    ]
+  },
+  {
+    "id": "016",
+    "avsid": "016",
+    "registration": "26-01-2024",
+    "car_overview": {
+      "brand": "Audi",
+      "model": "A4",
+      "body": "Sedan",
+      "price": 11421,
+      "pictures": "./images/autos/016/",
+      "description": "Repellendus sed minus fugiat ab exercitationem quo quae consectetur.",
+      "condition": "Occasion",
+      "stock_number": "AUD016",
+      "vin_number": "CC449CC3-3BF7-44B",
+      "year": 2013,
+      "mileage": 149508,
+      "transmission": "Automaat",
+      "engine_size": "2.2L",
+      "driver_type": "Achterwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Elektrisch",
+      "doors": 3,
+      "color": "Blauw",
+      "seats": 4,
+      "pk": 140,
+      "variant": "AUDVAR5",
+      "carrosserie": "sedan"
+    },
+    "safety_features": [
+      "Achteruitrijcamera",
+      "ABS",
+      "Lane Assist",
+      "Airbags"
+    ],
+    "exterior_features": [
+      "Mistlampen",
+      "Elektrische spiegels",
+      "Panoramadak",
+      "LED-koplampen"
+    ],
+    "interior_features": [
+      "Navigatiesysteem",
+      "Lederen bekleding",
+      "Climate control",
+      "Multifunctioneel stuur"
+    ],
+    "convenience_features": [
+      "Cruise Control",
+      "Parkeersensoren",
+      "Sleutelvrije toegang",
+      "Apple CarPlay"
+    ]
+  },
+  {
+    "id": "017",
+    "avsid": "017",
+    "registration": "28-07-2021",
+    "car_overview": {
+      "brand": "Peugeot",
+      "model": "308",
+      "body": "Stationwagon",
+      "price": 29791,
+      "pictures": "./images/autos/017/",
+      "description": "Ad aut voluptatem iusto suscipit magni exercitationem et nobis consequuntur tempora sapiente ut.",
+      "condition": "Occasion",
+      "stock_number": "PEU017",
+      "vin_number": "75383B1B-FDFB-4F3",
+      "year": 2016,
+      "mileage": 38527,
+      "transmission": "Automaat",
+      "engine_size": "2.8L",
+      "driver_type": "Achterwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Benzine",
+      "doors": 3,
+      "color": "Grijs",
+      "seats": 4,
+      "pk": 178,
+      "variant": "PEUVAR4",
+      "carrosserie": "stationwagon"
+    },
+    "safety_features": [
+      "Lane Assist",
+      "Achteruitrijcamera",
+      "Botswaarschuwing",
+      "Airbags"
+    ],
+    "exterior_features": [
+      "Panoramadak",
+      "LED-koplampen",
+      "Mistlampen",
+      "Lichtmetalen velgen"
+    ],
+    "interior_features": [
+      "Lederen bekleding",
+      "Navigatiesysteem",
+      "Stoelverwarming",
+      "Climate control"
+    ],
+    "convenience_features": [
+      "Apple CarPlay",
+      "Sleutelvrije toegang",
+      "Cruise Control",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "018",
+    "avsid": "018",
+    "registration": "25-10-2024",
+    "car_overview": {
+      "brand": "Renault",
+      "model": "Clio",
+      "body": "Hatchback",
+      "price": 16933,
+      "pictures": "./images/autos/018/",
+      "description": "Soluta vero cum aliquam architecto saepe molestias esse qui dolorem quam nostrum nihil fuga.",
+      "condition": "Occasion",
+      "stock_number": "REN018",
+      "vin_number": "E705D6FF-32D7-479",
+      "year": 2018,
+      "mileage": 58325,
+      "transmission": "Automaat",
+      "engine_size": "1.3L",
+      "driver_type": "Achterwielaandrijving",
+      "cylinders": 3,
+      "fuel": "Diesel",
+      "doors": 5,
+      "color": "Groen",
+      "seats": 5,
+      "pk": 129,
+      "variant": "RENVAR8",
+      "carrosserie": "hatchback"
+    },
+    "safety_features": [
+      "Airbags",
+      "ABS",
+      "Dodehoekdetectie",
+      "Lane Assist"
+    ],
+    "exterior_features": [
+      "Mistlampen",
+      "Panoramadak",
+      "Lichtmetalen velgen",
+      "Elektrische spiegels"
+    ],
+    "interior_features": [
+      "Lederen bekleding",
+      "Climate control",
+      "Multifunctioneel stuur",
+      "Navigatiesysteem"
+    ],
+    "convenience_features": [
+      "Apple CarPlay",
+      "Sleutelvrije toegang",
+      "Cruise Control",
+      "Parkeersensoren"
+    ]
+  },
+  {
+    "id": "019",
+    "avsid": "019",
+    "registration": "11-02-2021",
+    "car_overview": {
+      "brand": "Peugeot",
+      "model": "308",
+      "body": "Stationwagon",
+      "price": 15085,
+      "pictures": "./images/autos/019/",
+      "description": "Quaerat tempore vel deserunt rem blanditiis eveniet sunt sit consequuntur assumenda.",
+      "condition": "Occasion",
+      "stock_number": "PEU019",
+      "vin_number": "9545BE62-E80B-41C",
+      "year": 2017,
+      "mileage": 95231,
+      "transmission": "Automaat",
+      "engine_size": "2.8L",
+      "driver_type": "Achterwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Elektrisch",
+      "doors": 4,
+      "color": "Blauw",
+      "seats": 7,
+      "pk": 190,
+      "variant": "PEUVAR5",
+      "carrosserie": "stationwagon"
+    },
+    "safety_features": [
+      "Botswaarschuwing",
+      "ABS",
+      "Dodehoekdetectie",
+      "Airbags"
+    ],
+    "exterior_features": [
+      "Mistlampen",
+      "Panoramadak",
+      "Elektrische spiegels",
+      "LED-koplampen"
+    ],
+    "interior_features": [
+      "Multifunctioneel stuur",
+      "Stoelverwarming",
+      "Navigatiesysteem",
+      "Lederen bekleding"
+    ],
+    "convenience_features": [
+      "Cruise Control",
+      "Apple CarPlay",
+      "Sleutelvrije toegang",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "020",
+    "avsid": "020",
+    "registration": "20-06-2019",
+    "car_overview": {
+      "brand": "Opel",
+      "model": "Corsa",
+      "body": "Hatchback",
+      "price": 20466,
+      "pictures": "./images/autos/020/",
+      "description": "Delectus eius id officia ipsa fugiat natus provident perspiciatis vitae praesentium.",
+      "condition": "Occasion",
+      "stock_number": "OPE020",
+      "vin_number": "D5E587A4-31E6-403",
+      "year": 2022,
+      "mileage": 116790,
+      "transmission": "Automaat",
+      "engine_size": "3.3L",
+      "driver_type": "Achterwielaandrijving",
+      "cylinders": 6,
+      "fuel": "Diesel",
+      "doors": 5,
+      "color": "Blauw",
+      "seats": 5,
+      "pk": 108,
+      "variant": "OPEVAR8",
+      "carrosserie": "hatchback"
+    },
+    "safety_features": [
+      "Lane Assist",
+      "Achteruitrijcamera",
+      "Botswaarschuwing",
+      "ABS"
+    ],
+    "exterior_features": [
+      "LED-koplampen",
+      "Mistlampen",
+      "Panoramadak",
+      "Lichtmetalen velgen"
+    ],
+    "interior_features": [
+      "Multifunctioneel stuur",
+      "Navigatiesysteem",
+      "Stoelverwarming",
+      "Climate control"
+    ],
+    "convenience_features": [
+      "Parkeersensoren",
+      "Bluetooth",
+      "Apple CarPlay",
+      "Cruise Control"
+    ]
+  },
+  {
+    "id": "021",
+    "avsid": "021",
+    "registration": "24-06-2019",
+    "car_overview": {
+      "brand": "Ford",
+      "model": "Focus",
+      "body": "Sedan",
+      "price": 37713,
+      "pictures": "./images/autos/021/",
+      "description": "Sapiente explicabo tempora amet temporibus officiis voluptates quae velit accusantium.",
+      "condition": "Occasion",
+      "stock_number": "FOR021",
+      "vin_number": "60F1B66B-DF84-45D",
+      "year": 2018,
+      "mileage": 50202,
+      "transmission": "Automaat",
+      "engine_size": "3.0L",
+      "driver_type": "Voorwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Benzine",
+      "doors": 5,
+      "color": "Grijs",
+      "seats": 7,
+      "pk": 92,
+      "variant": "FORVAR8",
+      "carrosserie": "sedan"
+    },
+    "safety_features": [
+      "ABS",
+      "Airbags",
+      "Lane Assist",
+      "Dodehoekdetectie"
+    ],
+    "exterior_features": [
+      "LED-koplampen",
+      "Panoramadak",
+      "Elektrische spiegels",
+      "Mistlampen"
+    ],
+    "interior_features": [
+      "Lederen bekleding",
+      "Stoelverwarming",
+      "Multifunctioneel stuur",
+      "Navigatiesysteem"
+    ],
+    "convenience_features": [
+      "Bluetooth",
+      "Sleutelvrije toegang",
+      "Cruise Control",
+      "Parkeersensoren"
+    ]
+  },
+  {
+    "id": "022",
+    "avsid": "022",
+    "registration": "08-04-2019",
+    "car_overview": {
+      "brand": "Ford",
+      "model": "Focus",
+      "body": "Sedan",
+      "price": 13125,
+      "pictures": "./images/autos/022/",
+      "description": "Non maiores corporis voluptates rerum consequuntur illum laudantium libero.",
+      "condition": "Occasion",
+      "stock_number": "FOR022",
+      "vin_number": "85DAC4E3-777F-43E",
+      "year": 2014,
+      "mileage": 93817,
+      "transmission": "Automaat",
+      "engine_size": "2.4L",
+      "driver_type": "Vierwielaandrijving",
+      "cylinders": 3,
+      "fuel": "Benzine",
+      "doors": 4,
+      "color": "Rood",
+      "seats": 4,
+      "pk": 203,
+      "variant": "FORVAR1",
+      "carrosserie": "sedan"
+    },
+    "safety_features": [
+      "Lane Assist",
+      "Dodehoekdetectie",
+      "ABS",
+      "Botswaarschuwing"
+    ],
+    "exterior_features": [
+      "LED-koplampen",
+      "Mistlampen",
+      "Panoramadak",
+      "Lichtmetalen velgen"
+    ],
+    "interior_features": [
+      "Stoelverwarming",
+      "Climate control",
+      "Lederen bekleding",
+      "Multifunctioneel stuur"
+    ],
+    "convenience_features": [
+      "Apple CarPlay",
+      "Sleutelvrije toegang",
+      "Bluetooth",
+      "Parkeersensoren"
+    ]
+  },
+  {
+    "id": "023",
+    "avsid": "023",
+    "registration": "20-07-2020",
+    "car_overview": {
+      "brand": "Skoda",
+      "model": "Octavia",
+      "body": "Sedan",
+      "price": 37986,
+      "pictures": "./images/autos/023/",
+      "description": "Fugiat provident repellat eveniet asperiores accusamus recusandae nesciunt quod veniam debitis tenetur.",
+      "condition": "Occasion",
+      "stock_number": "SKO023",
+      "vin_number": "0D1CEF4D-DA88-452",
+      "year": 2015,
+      "mileage": 76253,
+      "transmission": "Handgeschakeld",
+      "engine_size": "1.7L",
+      "driver_type": "Voorwielaandrijving",
+      "cylinders": 6,
+      "fuel": "Diesel",
+      "doors": 3,
+      "color": "Zwart",
+      "seats": 7,
+      "pk": 94,
+      "variant": "SKOVAR5",
+      "carrosserie": "sedan"
+    },
+    "safety_features": [
+      "Dodehoekdetectie",
+      "Botswaarschuwing",
+      "ABS",
+      "Airbags"
+    ],
+    "exterior_features": [
+      "Elektrische spiegels",
+      "Lichtmetalen velgen",
+      "Mistlampen",
+      "LED-koplampen"
+    ],
+    "interior_features": [
+      "Stoelverwarming",
+      "Climate control",
+      "Multifunctioneel stuur",
+      "Lederen bekleding"
+    ],
+    "convenience_features": [
+      "Bluetooth",
+      "Apple CarPlay",
+      "Sleutelvrije toegang",
+      "Parkeersensoren"
+    ]
+  },
+  {
+    "id": "024",
+    "avsid": "024",
+    "registration": "08-10-2022",
+    "car_overview": {
+      "brand": "Opel",
+      "model": "Corsa",
+      "body": "Hatchback",
+      "price": 36250,
+      "pictures": "./images/autos/024/",
+      "description": "Accusamus quos ullam dolor voluptatum ad hic officiis iure praesentium labore aperiam aliquid nostrum amet omnis cupiditate quaerat exercitationem.",
+      "condition": "Occasion",
+      "stock_number": "OPE024",
+      "vin_number": "C39D7A04-5F28-464",
+      "year": 2022,
+      "mileage": 154239,
+      "transmission": "Automaat",
+      "engine_size": "3.5L",
+      "driver_type": "Vierwielaandrijving",
+      "cylinders": 6,
+      "fuel": "Diesel",
+      "doors": 4,
+      "color": "Zwart",
+      "seats": 7,
+      "pk": 212,
+      "variant": "OPEVAR5",
+      "carrosserie": "hatchback"
+    },
+    "safety_features": [
+      "Lane Assist",
+      "Airbags",
+      "Achteruitrijcamera",
+      "ABS"
+    ],
+    "exterior_features": [
+      "Lichtmetalen velgen",
+      "LED-koplampen",
+      "Mistlampen",
+      "Elektrische spiegels"
+    ],
+    "interior_features": [
+      "Climate control",
+      "Navigatiesysteem",
+      "Lederen bekleding",
+      "Multifunctioneel stuur"
+    ],
+    "convenience_features": [
+      "Cruise Control",
+      "Parkeersensoren",
+      "Sleutelvrije toegang",
+      "Apple CarPlay"
+    ]
+  },
+  {
+    "id": "025",
+    "avsid": "025",
+    "registration": "20-08-2018",
+    "car_overview": {
+      "brand": "Volvo",
+      "model": "V40",
+      "body": "Stationwagon",
+      "price": 35463,
+      "pictures": "./images/autos/025/",
+      "description": "Exercitationem inventore impedit consequatur repellat quam illo cumque sequi rem.",
+      "condition": "Occasion",
+      "stock_number": "VOL025",
+      "vin_number": "73298EE7-4712-417",
+      "year": 2012,
+      "mileage": 149127,
+      "transmission": "Handgeschakeld",
+      "engine_size": "2.8L",
+      "driver_type": "Voorwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Elektrisch",
+      "doors": 5,
+      "color": "Zwart",
+      "seats": 5,
+      "pk": 248,
+      "variant": "VOLVAR1",
+      "carrosserie": "stationwagon"
+    },
+    "safety_features": [
+      "Dodehoekdetectie",
+      "Lane Assist",
+      "Botswaarschuwing",
+      "Airbags"
+    ],
+    "exterior_features": [
+      "LED-koplampen",
+      "Lichtmetalen velgen",
+      "Mistlampen",
+      "Elektrische spiegels"
+    ],
+    "interior_features": [
+      "Climate control",
+      "Stoelverwarming",
+      "Lederen bekleding",
+      "Navigatiesysteem"
+    ],
+    "convenience_features": [
+      "Cruise Control",
+      "Apple CarPlay",
+      "Sleutelvrije toegang",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "026",
+    "avsid": "026",
+    "registration": "10-05-2024",
+    "car_overview": {
+      "brand": "Toyota",
+      "model": "Corolla",
+      "body": "Sedan",
+      "price": 14399,
+      "pictures": "./images/autos/026/",
+      "description": "Delectus esse quas sint repudiandae nesciunt sed commodi at eveniet explicabo eaque nisi rem commodi placeat.",
+      "condition": "Occasion",
+      "stock_number": "TOY026",
+      "vin_number": "DDC0D2B9-528B-485",
+      "year": 2017,
+      "mileage": 83393,
+      "transmission": "Handgeschakeld",
+      "engine_size": "2.3L",
+      "driver_type": "Voorwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Diesel",
+      "doors": 5,
+      "color": "Groen",
+      "seats": 5,
+      "pk": 96,
+      "variant": "TOYVAR8",
+      "carrosserie": "sedan"
+    },
+    "safety_features": [
+      "Airbags",
+      "Botswaarschuwing",
+      "ABS",
+      "Achteruitrijcamera"
+    ],
+    "exterior_features": [
+      "Lichtmetalen velgen",
+      "Panoramadak",
+      "Mistlampen",
+      "LED-koplampen"
+    ],
+    "interior_features": [
+      "Climate control",
+      "Lederen bekleding",
+      "Navigatiesysteem",
+      "Multifunctioneel stuur"
+    ],
+    "convenience_features": [
+      "Sleutelvrije toegang",
+      "Apple CarPlay",
+      "Parkeersensoren",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "027",
+    "avsid": "027",
+    "registration": "20-03-2017",
+    "car_overview": {
+      "brand": "Nissan",
+      "model": "Qashqai",
+      "body": "Suv",
+      "price": 25076,
+      "pictures": "./images/autos/027/",
+      "description": "Velit at saepe natus quasi soluta ratione vel beatae voluptatum sequi ab corrupti aliquid doloremque eveniet.",
+      "condition": "Occasion",
+      "stock_number": "NIS027",
+      "vin_number": "4B3EA353-45DE-4CB",
+      "year": 2018,
+      "mileage": 58384,
+      "transmission": "Automaat",
+      "engine_size": "2.0L",
+      "driver_type": "Voorwielaandrijving",
+      "cylinders": 3,
+      "fuel": "Hybride",
+      "doors": 4,
+      "color": "Blauw",
+      "seats": 5,
+      "pk": 265,
+      "variant": "NISVAR8",
+      "carrosserie": "SUV"
+    },
+    "safety_features": [
+      "Dodehoekdetectie",
+      "Lane Assist",
+      "Airbags",
+      "Botswaarschuwing"
+    ],
+    "exterior_features": [
+      "Elektrische spiegels",
+      "Panoramadak",
+      "Mistlampen",
+      "Lichtmetalen velgen"
+    ],
+    "interior_features": [
+      "Multifunctioneel stuur",
+      "Stoelverwarming",
+      "Lederen bekleding",
+      "Navigatiesysteem"
+    ],
+    "convenience_features": [
+      "Sleutelvrije toegang",
+      "Apple CarPlay",
+      "Parkeersensoren",
+      "Cruise Control"
+    ]
+  },
+  {
+    "id": "028",
+    "avsid": "028",
+    "registration": "21-07-2017",
+    "car_overview": {
+      "brand": "Hyundai",
+      "model": "i30",
+      "body": "Hatchback",
+      "price": 37454,
+      "pictures": "./images/autos/028/",
+      "description": "Temporibus impedit blanditiis atque ad eius sint excepturi inventore velit neque explicabo nobis recusandae blanditiis libero at quaerat ipsum.",
+      "condition": "Occasion",
+      "stock_number": "HYU028",
+      "vin_number": "2061CB60-DD22-48A",
+      "year": 2016,
+      "mileage": 99982,
+      "transmission": "Automaat",
+      "engine_size": "2.2L",
+      "driver_type": "Vierwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Diesel",
+      "doors": 4,
+      "color": "Grijs",
+      "seats": 4,
+      "pk": 112,
+      "variant": "HYUVAR6",
+      "carrosserie": "hatchback"
+    },
+    "safety_features": [
+      "Lane Assist",
+      "Dodehoekdetectie",
+      "Botswaarschuwing",
+      "Achteruitrijcamera"
+    ],
+    "exterior_features": [
+      "Panoramadak",
+      "LED-koplampen",
+      "Lichtmetalen velgen",
+      "Mistlampen"
+    ],
+    "interior_features": [
+      "Navigatiesysteem",
+      "Climate control",
+      "Multifunctioneel stuur",
+      "Stoelverwarming"
+    ],
+    "convenience_features": [
+      "Sleutelvrije toegang",
+      "Parkeersensoren",
+      "Apple CarPlay",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "029",
+    "avsid": "029",
+    "registration": "21-07-2015",
+    "car_overview": {
+      "brand": "Hyundai",
+      "model": "i30",
+      "body": "Hatchback",
+      "price": 39083,
+      "pictures": "./images/autos/029/",
+      "description": "Eum debitis at optio voluptates omnis rem consectetur inventore omnis assumenda qui corrupti possimus placeat debitis distinctio quae sint.",
+      "condition": "Occasion",
+      "stock_number": "HYU029",
+      "vin_number": "C46B5EAB-B9FE-40B",
+      "year": 2019,
+      "mileage": 121947,
+      "transmission": "Automaat",
+      "engine_size": "1.9L",
+      "driver_type": "Voorwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Diesel",
+      "doors": 5,
+      "color": "Zwart",
+      "seats": 7,
+      "pk": 260,
+      "variant": "HYUVAR5",
+      "carrosserie": "hatchback"
+    },
+    "safety_features": [
+      "ABS",
+      "Dodehoekdetectie",
+      "Botswaarschuwing",
+      "Lane Assist"
+    ],
+    "exterior_features": [
+      "Mistlampen",
+      "LED-koplampen",
+      "Lichtmetalen velgen",
+      "Elektrische spiegels"
+    ],
+    "interior_features": [
+      "Climate control",
+      "Lederen bekleding",
+      "Navigatiesysteem",
+      "Multifunctioneel stuur"
+    ],
+    "convenience_features": [
+      "Sleutelvrije toegang",
+      "Cruise Control",
+      "Bluetooth",
+      "Apple CarPlay"
+    ]
+  },
+  {
+    "id": "030",
+    "avsid": "030",
+    "registration": "21-06-2018",
+    "car_overview": {
+      "brand": "Nissan",
+      "model": "Qashqai",
+      "body": "Suv",
+      "price": 35650,
+      "pictures": "./images/autos/030/",
+      "description": "Cum excepturi pariatur perferendis alias ut assumenda nobis neque laborum amet in adipisci.",
+      "condition": "Occasion",
+      "stock_number": "NIS030",
+      "vin_number": "D1C95307-5E4A-4B3",
+      "year": 2022,
+      "mileage": 147196,
+      "transmission": "Handgeschakeld",
+      "engine_size": "2.3L",
+      "driver_type": "Vierwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Hybride",
+      "doors": 4,
+      "color": "Wit",
+      "seats": 7,
+      "pk": 299,
+      "variant": "NISVAR3",
+      "carrosserie": "SUV"
+    },
+    "safety_features": [
+      "Dodehoekdetectie",
+      "Achteruitrijcamera",
+      "Botswaarschuwing",
+      "Lane Assist"
+    ],
+    "exterior_features": [
+      "Elektrische spiegels",
+      "Panoramadak",
+      "LED-koplampen",
+      "Lichtmetalen velgen"
+    ],
+    "interior_features": [
+      "Stoelverwarming",
+      "Climate control",
+      "Lederen bekleding",
+      "Navigatiesysteem"
+    ],
+    "convenience_features": [
+      "Sleutelvrije toegang",
+      "Bluetooth",
+      "Parkeersensoren",
+      "Apple CarPlay"
+    ]
+  },
+  {
+    "id": "031",
+    "avsid": "031",
+    "registration": "26-10-2023",
+    "car_overview": {
+      "brand": "Mazda",
+      "model": "3",
+      "body": "Hatchback",
+      "price": 18105,
+      "pictures": "./images/autos/031/",
+      "description": "Quaerat itaque dolores magnam nostrum architecto ducimus deserunt ipsa numquam necessitatibus ut.",
+      "condition": "Occasion",
+      "stock_number": "MAZ031",
+      "vin_number": "192CE990-2276-4CF",
+      "year": 2016,
+      "mileage": 138497,
+      "transmission": "Handgeschakeld",
+      "engine_size": "2.6L",
+      "driver_type": "Achterwielaandrijving",
+      "cylinders": 4,
+      "fuel": "Benzine",
+      "doors": 3,
+      "color": "Groen",
+      "seats": 7,
+      "pk": 170,
+      "variant": "MAZVAR3",
+      "carrosserie": "hatchback"
+    },
+    "safety_features": [
+      "Achteruitrijcamera",
+      "Airbags",
+      "ABS",
+      "Lane Assist"
+    ],
+    "exterior_features": [
+      "LED-koplampen",
+      "Panoramadak",
+      "Lichtmetalen velgen",
+      "Mistlampen"
+    ],
+    "interior_features": [
+      "Multifunctioneel stuur",
+      "Navigatiesysteem",
+      "Stoelverwarming",
+      "Lederen bekleding"
+    ],
+    "convenience_features": [
+      "Bluetooth",
+      "Sleutelvrije toegang",
+      "Cruise Control",
+      "Apple CarPlay"
+    ]
+  },
+  {
+    "id": "032",
+    "avsid": "032",
+    "registration": "27-08-2020",
+    "car_overview": {
+      "brand": "Opel",
+      "model": "Corsa",
+      "body": "Hatchback",
+      "price": 39454,
+      "pictures": "./images/autos/032/",
+      "description": "Necessitatibus tenetur veritatis id delectus veritatis sit tenetur officiis eius earum perferendis earum voluptatibus modi.",
+      "condition": "Occasion",
+      "stock_number": "OPE032",
+      "vin_number": "3265D203-4682-4C8",
+      "year": 2014,
+      "mileage": 47457,
+      "transmission": "Handgeschakeld",
+      "engine_size": "3.5L",
+      "driver_type": "Achterwielaandrijving",
+      "cylinders": 6,
+      "fuel": "Benzine",
+      "doors": 3,
+      "color": "Blauw",
+      "seats": 4,
+      "pk": 244,
+      "variant": "OPEVAR8",
+      "carrosserie": "hatchback"
+    },
+    "safety_features": [
+      "Achteruitrijcamera",
+      "Lane Assist",
+      "Dodehoekdetectie",
+      "ABS"
+    ],
+    "exterior_features": [
+      "Panoramadak",
+      "LED-koplampen",
+      "Mistlampen",
+      "Elektrische spiegels"
+    ],
+    "interior_features": [
+      "Lederen bekleding",
+      "Climate control",
+      "Multifunctioneel stuur",
+      "Stoelverwarming"
+    ],
+    "convenience_features": [
+      "Cruise Control",
+      "Bluetooth",
+      "Apple CarPlay",
+      "Sleutelvrije toegang"
+    ]
+  }
+]
