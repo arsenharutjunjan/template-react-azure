@@ -8,7 +8,7 @@ function App() {
 
   async function addUser() {
     try {
-      const response = await fetch('http://localhost:7071/api/addUser', {
+      const response = await fetch('/api/addUser', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -32,7 +32,7 @@ function App() {
 
   async function addCar() {
     try {
-      const response = await fetch('http://localhost:7071/api/addCar', {
+      const response = await fetch('/api/addCar', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -83,7 +83,7 @@ function App() {
 
   async function getAllCars() {
     try {
-      const response = await fetch('http://localhost:7071/api/getAllCars');
+      const response = await fetch('/api/getAllCars');
       const data = await response.json();
       setCars(data);
     } catch (error) {
@@ -93,7 +93,7 @@ function App() {
 
   async function getCar() {
     try {
-      const response = await fetch('http://localhost:7071/api/getCar?avsid=004');
+      const response = await fetch('/api/getCar?avsid=004');
       const data = await response.json();
       setSingleCar(data);
     } catch (error) {
