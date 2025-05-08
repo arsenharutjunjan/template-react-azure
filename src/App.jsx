@@ -1,20 +1,40 @@
-// App.jsx
 import { useState } from 'react';
 
 function App() {
-  const [data, setData] = useState(null);
+  const [message, setMessage] = useState('');
 
-  const fetchData = async () => {
-    const res = await fetch('/api/data');
-    const json = await res.json();
-    setData(json.message);
-  };
+  async function addUser() {
+    try {
+      const response = await fetch('http://localhost:7071/api/addUser', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          avsid: '002',
+          name: 'Lusine',
+          email: 'lusine@example.com',
+        }),
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+
+      const data = await response.json();
+      console.log('API response:', data);
+      setMessage(`Gebruiker toegevoegd: ${data.name}`);
+    } catch (error) {
+      console.error('Fout bij toevoegen gebruiker:', error);
+      setMessage('Er ging iets mis.');
+    }
+  }
 
   return (
     <div>
-      <h1>Mijn simpele app</h1>
-      <button onClick={fetchData}>Haal data op</button>
-      {data && <p>{data}</p>}
+      <h1>Gebruiker toevoegen</h1>
+      <button onClick={addUser}>Toevoegen</button>
+      <p>{message}</p>
     </div>
   );
 }
