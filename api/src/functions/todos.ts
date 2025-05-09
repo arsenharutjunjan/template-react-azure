@@ -19,8 +19,8 @@ export async function todos(request: HttpRequest, context: InvocationContext): P
     }
 
     const client = new CosmosClient({ endpoint, key });
-    const database = client.database("todosdb");
-    const container = database.container("todos");
+    const database = client.database("avs-db");
+    const container = database.container("avs-container");
 
     try {
         switch (request.method) {
