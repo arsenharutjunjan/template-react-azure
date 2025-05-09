@@ -6,8 +6,7 @@
     "build": "tsc",
     "watch": "tsc -w",
     "prestart": "npm run build",
-    "start": "func start",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "func start"
   },
   "dependencies": {
     "@azure/cosmos": "^4.0.0",
