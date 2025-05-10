@@ -12,7 +12,7 @@ interface CarPayload {
 const endpoint = process.env.COSMOSDB_ENDPOINT!;
 const key = process.env.COSMOSDB_KEY!;
 const client = new CosmosClient({ endpoint, key });
-const container = client.database("avs-autos").container("cars");
+const container = client.database("avs-db").container("avs-container");
 
 function parseMulti(value?: string | string[]) {
   if (!value) return [];
