@@ -2,11 +2,11 @@
   "compilerOptions": {
     "target": "ES2020",
     "module": "commonjs",
-    "rootDir": "src",
+    "rootDir": "src/functions",
     "outDir": "dist",
     "strict": true,
     "esModuleInterop": true,
     "types": ["node"]
   },
-  "include": ["src/**/*"]
+  "include": ["src/functions/**/*"]
 }
