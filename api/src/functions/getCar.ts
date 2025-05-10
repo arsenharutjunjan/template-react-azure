@@ -1,15 +1,12 @@
 import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/functions";
 
 export async function getCar(request: HttpRequest, context: InvocationContext): Promise<HttpResponseInit> {
-    context.log(`Http function processed request for url "${request.url}"`);
+  const name = request.query.get("name") || "World";
+  return { status: 200, body: `Hello, ${name}!` };
+}
 
-    const name = request.query.get('name') || await request.text() || 'world';
-
-    return { body: `Hello, ${name}!` };
-};
-
-app.http('getCar', {
-    methods: ['GET', 'POST'],
-    authLevel: 'anonymous',
-    handler: getCar
+app.http("getCar", {
+  methods: ["GET"],
+  authLevel: "anonymous",
+  handler: getCar
 });
