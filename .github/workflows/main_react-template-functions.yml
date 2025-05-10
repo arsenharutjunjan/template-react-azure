@@ -39,8 +39,7 @@ jobs:
 
       - name: Zip API folder for deployment
         run: |
-          cd api
-          zip -r ../release.zip ./*
+          zip -r release.zip api
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
