@@ -8,10 +8,11 @@
     "predeploy": "npm run build"
   },
   "dependencies": {
-    "@azure/functions": "^4.0.0",
-    "@azure/cosmos": "^4.0.0"
+    "@azure/cosmos": "^4.0.0",
+    "@azure/functions": "^4.0.0"
   },
   "devDependencies": {
+    "@types/node": "^22.15.17",
     "typescript": "^5.0.0"
   }
 }
