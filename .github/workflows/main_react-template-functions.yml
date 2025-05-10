@@ -77,5 +77,5 @@ jobs:
         with:
           app-name: 'react-template-functions'
           slot-name: 'Production'
-          package: './api'
+          package: './artifact/api'
           
