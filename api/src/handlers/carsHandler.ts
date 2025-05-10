@@ -80,10 +80,10 @@ export async function carsHandler(request: HttpRequest, context: InvocationConte
 
       const whereClause = filters.length ? `WHERE ${filters.join(" AND ")}` : "";
       const query = {
-        query: `SELECT * FROM c ${whereClause} ORDER BY c.car_overview.${sortKey} ${sortOrder}`,
-        parameters: params,
+        query: `SELECT * FROM c ${whereClause} ORDER BY c._ts DESC`,
+        parameters: params
       };
-
+      
       const { resources } = await container.items.query(query).fetchAll();
       return { status: 200, jsonBody: resources };
     }
