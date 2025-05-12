@@ -86,6 +86,10 @@ export async function carsHandler(request: HttpRequest, context: InvocationConte
         params.push({ name: "@search", value: searchText.toLowerCase() });
       }
 
+      // Debug log query and params
+      context.log(`Executing query with filters: ${filters.join(" AND ")}`);
+      context.log(`Parameters: ${JSON.stringify(params)}`);
+
       // Build query without sorting
       const whereClause = filters.length ? `WHERE ${filters.join(" AND ")}` : "";
       const querySpec = {
@@ -123,6 +127,7 @@ export async function carsHandler(request: HttpRequest, context: InvocationConte
     return { status: 405, body: "Method not allowed" };
   } catch (err) {
     context.error("/cars error", err);
-    return { status: 500, body: "Interne fout" };
+    // Return error details in development
+    return { status: 500, body: `Interne fout: ${err.message}` };
   }
 }
