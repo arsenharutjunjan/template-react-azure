@@ -46,8 +46,9 @@ export async function carsHandler(request: HttpRequest, context: InvocationConte
     }
 
     return { status: 405, body: "Method not allowed" };
-  } catch (err) {
+  } catch (err: unknown) {
     context.error("/cars error", err);
-    return { status: 500, body: `Interne fout: ${err.message}` };
+    const message = err instanceof Error ? err.message : String(err);
+    return { status: 500, body: `Interne fout: ${message}` };
   }
 }
